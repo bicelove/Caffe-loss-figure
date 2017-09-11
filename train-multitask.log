@@ -1,0 +1,58 @@
+I0825 18:14:28.740340 27948 solver.cpp:240] Iteration 0, loss = 6.06752
+I0825 18:14:28.740375 27948 solver.cpp:256]     Train net output #0: loss/ads = 0.0136013 (* 0.3 = 0.00408039 loss)
+I0825 18:14:28.740378 27948 solver.cpp:256]     Train net output #1: loss/multi-tags = 2.01441 (* 0.3 = 0.604323 loss)
+I0825 18:14:28.740382 27948 solver.cpp:256]     Train net output #2: loss/single-tag = 13.6478 (* 0.4 = 5.45912 loss)
+I0825 18:14:28.740402 27948 sgd_solver.cpp:106] Iteration 0, lr = 0.001
+I0825 18:28:56.184659 27948 solver.cpp:240] Iteration 1000, loss = 0.629935
+I0825 18:28:56.184841 27948 solver.cpp:256]     Train net output #0: loss/ads = 0.21487 (* 0.3 = 0.0644611 loss)
+I0825 18:28:56.184847 27948 solver.cpp:256]     Train net output #1: loss/multi-tags = 0.109643 (* 0.3 = 0.032893 loss)
+I0825 18:28:56.184859 27948 solver.cpp:256]     Train net output #2: loss/single-tag = 1.42785 (* 0.4 = 0.571141 loss)
+I0825 18:28:56.184862 27948 sgd_solver.cpp:106] Iteration 1000, lr = 0.000998
+I0825 18:43:24.520921 27948 solver.cpp:240] Iteration 2000, loss = 0.571323
+I0825 18:43:24.538673 27948 solver.cpp:256]     Train net output #0: loss/ads = 0.0683149 (* 0.3 = 0.0204945 loss)
+I0825 18:43:24.538678 27948 solver.cpp:256]     Train net output #1: loss/multi-tags = 0.0827674 (* 0.3 = 0.0248302 loss)
+I0825 18:43:24.538682 27948 solver.cpp:256]     Train net output #2: loss/single-tag = 1.60039 (* 0.4 = 0.640157 loss)
+I0825 18:43:24.538686 27948 sgd_solver.cpp:106] Iteration 2000, lr = 0.000996
+I0825 18:57:52.872184 27948 solver.cpp:240] Iteration 3000, loss = 0.475194
+I0825 18:57:52.872294 27948 solver.cpp:256]     Train net output #0: loss/ads = 0.0959341 (* 0.3 = 0.0287802 loss)
+I0825 18:57:52.872299 27948 solver.cpp:256]     Train net output #1: loss/multi-tags = 0.0688792 (* 0.3 = 0.0206638 loss)
+I0825 18:57:52.872303 27948 solver.cpp:256]     Train net output #2: loss/single-tag = 1.16458 (* 0.4 = 0.465832 loss)
+I0825 18:57:52.872316 27948 sgd_solver.cpp:106] Iteration 3000, lr = 0.000994
+I0825 19:12:21.246925 27948 solver.cpp:240] Iteration 4000, loss = 0.450871
+I0825 19:12:21.247027 27948 solver.cpp:256]     Train net output #0: loss/ads = 0.231071 (* 0.3 = 0.0693213 loss)
+I0825 19:12:21.247032 27948 solver.cpp:256]     Train net output #1: loss/multi-tags = 0.0864437 (* 0.3 = 0.0259331 loss)
+I0825 19:12:21.247035 27948 solver.cpp:256]     Train net output #2: loss/single-tag = 1.2748 (* 0.4 = 0.509918 loss)
+I0825 19:12:21.247040 27948 sgd_solver.cpp:106] Iteration 4000, lr = 0.000992
+I0825 19:26:49.393738 27948 solver.cpp:474] Snapshotting to binary proto file snapshot/inc-v2-ads-multiTags-tags-0825_iter_5000.caffemodel
+I0825 19:26:49.633442 27948 sgd_solver.cpp:273] Snapshotting solver state to binary proto file snapshot/inc-v2-ads-multiTags-tags-0825_iter_5000.caffemodel.solverstate
+I0825 19:26:50.302055 27948 solver.cpp:240] Iteration 5000, loss = 0.425547
+I0825 19:26:50.302088 27948 solver.cpp:256]     Train net output #0: loss/ads = 0.281868 (* 0.3 = 0.0845604 loss)
+I0825 19:26:50.302091 27948 solver.cpp:256]     Train net output #1: loss/multi-tags = 0.0741997 (* 0.3 = 0.0222599 loss)
+I0825 19:26:50.302094 27948 solver.cpp:256]     Train net output #2: loss/single-tag = 1.01062 (* 0.4 = 0.404247 loss)
+I0825 19:26:50.302098 27948 sgd_solver.cpp:106] Iteration 5000, lr = 0.00099
+I0825 19:41:19.035553 27948 solver.cpp:240] Iteration 6000, loss = 0.38518
+I0825 19:41:19.035653 27948 solver.cpp:256]     Train net output #0: loss/ads = 0.0807531 (* 0.3 = 0.0242259 loss)
+I0825 19:41:19.035660 27948 solver.cpp:256]     Train net output #1: loss/multi-tags = 0.0666906 (* 0.3 = 0.0200072 loss)
+I0825 19:41:19.035662 27948 solver.cpp:256]     Train net output #2: loss/single-tag = 1.16052 (* 0.4 = 0.464208 loss)
+I0825 19:41:19.035666 27948 sgd_solver.cpp:106] Iteration 6000, lr = 0.000988
+I0825 19:55:47.960358 27948 solver.cpp:240] Iteration 7000, loss = 0.428644
+I0825 19:55:47.960485 27948 solver.cpp:256]     Train net output #0: loss/ads = 0.326368 (* 0.3 = 0.0979103 loss)
+I0825 19:55:47.960492 27948 solver.cpp:256]     Train net output #1: loss/multi-tags = 0.0590498 (* 0.3 = 0.0177149 loss)
+I0825 19:55:47.960497 27948 solver.cpp:256]     Train net output #2: loss/single-tag = 0.997543 (* 0.4 = 0.399017 loss)
+I0825 19:55:47.960502 27948 sgd_solver.cpp:106] Iteration 7000, lr = 0.000986
+I0825 20:10:16.314630 27948 solver.cpp:240] Iteration 8000, loss = 0.39921
+I0825 20:10:16.314743 27948 solver.cpp:256]     Train net output #0: loss/ads = 0.124458 (* 0.3 = 0.0373374 loss)
+I0825 20:10:16.314759 27948 solver.cpp:256]     Train net output #1: loss/multi-tags = 0.0889769 (* 0.3 = 0.0266931 loss)
+I0825 20:10:16.314762 27948 solver.cpp:256]     Train net output #2: loss/single-tag = 1.03466 (* 0.4 = 0.413864 loss)
+I0825 20:10:16.314766 27948 sgd_solver.cpp:106] Iteration 8000, lr = 0.000984
+I0825 20:24:44.930287 27948 solver.cpp:240] Iteration 9000, loss = 0.413008
+I0825 20:24:44.930408 27948 solver.cpp:256]     Train net output #0: loss/ads = 0.251577 (* 0.3 = 0.075473 loss)
+I0825 20:24:44.930413 27948 solver.cpp:256]     Train net output #1: loss/multi-tags = 0.0826671 (* 0.3 = 0.0248001 loss)
+I0825 20:24:44.930426 27948 solver.cpp:256]     Train net output #2: loss/single-tag = 0.65111 (* 0.4 = 0.260444 loss)
+I0825 20:24:44.930430 27948 sgd_solver.cpp:106] Iteration 9000, lr = 0.000982
+I0825 20:39:12.201287 27948 solver.cpp:474] Snapshotting to binary proto file snapshot/inc-v2-ads-multiTags-tags-0825_iter_10000.caffemodel
+I0825 20:39:12.372833 27948 sgd_solver.cpp:273] Snapshotting solver state to binary proto file snapshot/inc-v2-ads-multiTags-tags-0825_iter_10000.caffemodel.solverstate
+I0825 20:39:13.032784 27948 solver.cpp:240] Iteration 10000, loss = 0.418283
+I0825 20:39:13.032801 27948 solver.cpp:256]     Train net output #0: loss/ads = 0.360678 (* 0.3 = 0.108203 loss)
+I0825 20:39:13.032805 27948 solver.cpp:256]     Train net output #1: loss/multi-tags = 0.0676988 (* 0.3 = 0.0203097 loss)
+I0825 20:39:13.032809 27948 solver.cpp:256]     Train net output #2: loss/single-tag = 0.626168 (* 0.4 = 0.250467 loss)

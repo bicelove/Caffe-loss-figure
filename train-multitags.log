@@ -1,0 +1,34 @@
+I0901 14:54:15.429323   912 solver.cpp:240] Iteration 0, loss = 0.828615
+I0901 14:54:15.429349   912 solver.cpp:256]     Train net output #0: loss = 0.830484 (* 1 = 0.830484 loss)
+I0901 14:54:15.429376   912 sgd_solver.cpp:106] Iteration 0, lr = 0.001
+I0901 15:33:09.086729   912 solver.cpp:240] Iteration 1000, loss = 0.0809555
+I0901 15:33:09.108839   912 solver.cpp:256]     Train net output #0: loss = 0.0740306 (* 1 = 0.0740306 loss)
+I0901 15:33:09.108846   912 sgd_solver.cpp:106] Iteration 1000, lr = 0.000995011
+I0901 16:12:02.618368   912 solver.cpp:240] Iteration 2000, loss = 0.0740052
+I0901 16:12:02.634215   912 solver.cpp:256]     Train net output #0: loss = 0.0820807 (* 1 = 0.0820807 loss)
+I0901 16:12:02.634227   912 sgd_solver.cpp:106] Iteration 2000, lr = 0.000990045
+I0901 16:50:55.995843   912 solver.cpp:240] Iteration 3000, loss = 0.0711558
+I0901 16:50:56.020082   912 solver.cpp:256]     Train net output #0: loss = 0.0694949 (* 1 = 0.0694949 loss)
+I0901 16:50:56.020090   912 sgd_solver.cpp:106] Iteration 3000, lr = 0.000985101
+I0901 17:29:48.886929   912 solver.cpp:240] Iteration 4000, loss = 0.0696976
+I0901 17:29:48.909678   912 solver.cpp:256]     Train net output #0: loss = 0.0720531 (* 1 = 0.0720531 loss)
+I0901 17:29:48.909687   912 sgd_solver.cpp:106] Iteration 4000, lr = 0.000980179
+I0901 18:08:40.378808   912 solver.cpp:474] Snapshotting to binary proto file ./snapshot/mn-multitags333-170901_iter_5000.caffemodel
+I0901 18:08:40.474474   912 sgd_solver.cpp:273] Snapshotting solver state to binary proto file ./snapshot/mn-multitags333-170901_iter_5000.caffemodel.solverstate
+I0904 09:41:22.258361   622 solver.cpp:240] Iteration 5000, loss = 0.0665176
+I0904 09:41:22.258395   622 solver.cpp:256]     Train net output #0: loss = 0.0677106 (* 1 = 0.0677106 loss)
+I0904 09:41:22.258421   622 sgd_solver.cpp:106] Iteration 5000, lr = 0.000975279
+I0904 10:20:12.335297   622 solver.cpp:240] Iteration 6000, loss = 0.0681296
+I0904 10:20:12.357419   622 solver.cpp:256]     Train net output #0: loss = 0.060871 (* 1 = 0.060871 loss)
+I0904 10:20:12.357435   622 sgd_solver.cpp:106] Iteration 6000, lr = 0.000970402
+I0904 10:59:04.985481   622 solver.cpp:240] Iteration 7000, loss = 0.0671201
+I0904 10:59:04.985596   622 solver.cpp:256]     Train net output #0: loss = 0.0745274 (* 1 = 0.0745274 loss)
+I0904 10:59:04.985605   622 sgd_solver.cpp:106] Iteration 7000, lr = 0.000965546
+I0904 11:37:57.714431   622 solver.cpp:240] Iteration 8000, loss = 0.0667187
+I0904 11:37:57.714524   622 solver.cpp:256]     Train net output #0: loss = 0.0651703 (* 1 = 0.0651703 loss)
+I0904 11:37:57.714530   622 sgd_solver.cpp:106] Iteration 8000, lr = 0.000960712
+I0904 12:16:50.656474   622 solver.cpp:240] Iteration 9000, loss = 0.0665526
+I0904 12:16:50.656563   622 solver.cpp:256]     Train net output #0: loss = 0.0691466 (* 1 = 0.0691466 loss)
+I0904 12:16:50.656570   622 sgd_solver.cpp:106] Iteration 9000, lr = 0.000955901
+I0904 12:55:42.147181   622 solver.cpp:474] Snapshotting to binary proto file ./snapshot/mn-multitags333-170901_iter_10000.caffemodel
+I0904 12:55:42.246892   622 sgd_solver.cpp:273] Snapshotting solver state to binary proto file ./snapshot/mn-multitags333-170901_iter_10000.caffemodel.solverstate
